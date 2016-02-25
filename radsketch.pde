@@ -15,5 +15,5 @@ void setup() {
   fill(255);
   triangle(width/2, height/2 - 25,
     width/2 + cos(radians(210))*25, height/2 - sin(radians(210))*25,
-    width/2 + cos(radians(330))*25, height/2 - sin(radians(330))*26 );
+    width/2 + cos(radians(330))*25, height/2 - sin(radians(330))*25 );
 }
